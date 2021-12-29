@@ -1,1 +1,2 @@
 # odin-recipes
+The Recipe project is a website consist of three different recipes to choose from. Each recipe will be a relative link to another page on the site. The page will have ingredients for that specific recipe. The purpose and goal of this project is to put into practice the HTML learned from The Odin Project.
