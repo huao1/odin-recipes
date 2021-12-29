@@ -27,3 +27,13 @@
     top: -210px;
     width: 18%;
 }
+
+.link-image {
+    width: 300px;
+    height: 400px;
+}
+
+.luffy {
+    margin-left: 16%;
+    border: 3px solid goldenrod;
+}
