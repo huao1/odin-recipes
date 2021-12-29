@@ -1,12 +1,18 @@
 .header img {
-    float: left;
+    display: inline;
     width: 100px;
     height: 100px;
-    background: #555;
+    margin-left: 40%;
+    margin-top: 10px;
 }
 
 .header h1 {
     position: relative;
-    top: 18px;
-    left: 18px;
+    top: -40px;
+    display: inline;
+}
+
+.header {
+    object-position: center;
+    margin-bottom: 100px;
 }
